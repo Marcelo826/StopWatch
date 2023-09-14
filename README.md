@@ -26,13 +26,9 @@ Neste projeto, praticamos as seguintes técnicas e conceitos:
 
  git clone https://github.com/Marcelo826/StopWatch.git
  
-Copy code
-
 2. Navegue até o diretório do projeto:
 
 cd StopWatch
-
-Copy code
 
 3. Execute o script do cronômetro:
 
